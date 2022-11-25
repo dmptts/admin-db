@@ -1,0 +1,119 @@
+{
+  "gateways": [
+    {
+      "id": 1,
+      "ip": "10.144.55.29",
+      "login": "rst-user",
+      "password": "pass-example",
+      "type": 0
+    },
+    {
+      "id": 2,
+      "ip": "10.144.55.30",
+      "login": "rst-user",
+      "password": "pass-example",
+      "type": 0
+    }
+  ],
+  "models": [
+    {
+      "id": 7,
+      "model": "model1",
+      "region": "RND",
+      "configuration": "config1",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 8,
+      "model": "model2",
+      "region": "RND",
+      "configuration": "config2",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 9,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 10,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 11,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 12,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 13,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 14,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 15,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 16,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    },
+    {
+      "id": 17,
+      "model": "model3",
+      "region": "MSK",
+      "configuration": "config3",
+      "login": "rst-user",
+      "password": "pass-example",
+      "super_password": "supper-pass"
+    }
+  ]
+}
