@@ -115,5 +115,43 @@
       "password": "pass-example",
       "super_password": "supper-pass"
     }
+  ],
+  "regions": [
+    {
+      "id": 1,
+      "name": "RND",
+      "description": "Some description, la la la",
+      "gateway_id": 142
+    },
+    {
+      "id": 2,
+      "name": "MSK",
+      "description": "Some description, la la la",
+      "gateway_id": 11
+    },
+    {
+      "id": 3,
+      "name": "SPB",
+      "description": "Some description, la la la",
+      "gateway_id": 144
+    },
+    {
+      "id": 4,
+      "name": "EKT",
+      "description": "Some description, la la la",
+      "gateway_id": 141
+    },
+    {
+      "id": 5,
+      "name": "RND",
+      "description": "Some description, la la la",
+      "gateway_id": 142
+    },
+    {
+      "id": 6,
+      "name": "RND",
+      "description": "Some description, la la la",
+      "gateway_id": 142
+    }
   ]
 }
