@@ -152,6 +152,12 @@
       "name": "RND",
       "description": "Some description, la la la",
       "gateway_id": 142
+    },
+    {
+      "id": 7,
+      "name": "SPB",
+      "description": "",
+      "gateway_id": ""
     }
   ],
   "hosts": [
